@@ -14,4 +14,8 @@ export default class ClasseC {
     public MC2 (): void {
         console.log("Metodo MC2");
     }
+
+    public MC3 (): void {
+        console.log("Metodo MC3");
+    }
 }
