@@ -14,4 +14,8 @@ export default class ClasseD {
     public MD2 (): boolean {
         return this.D1 === this.D2;
     }
+    
+    public MD4 (): void {
+        console.log("Metodo MB4");
+    }
 }
