@@ -30,4 +30,8 @@ export default class ClasseB {
     public MB2 (): void {
         console.log("Método MB2");
     }
+
+    public MB3 (): void {
+        console.log("Método MB3");
+    }
 }
