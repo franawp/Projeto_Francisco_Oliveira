@@ -18,4 +18,8 @@ export default class ClasseD {
     public MD3 (): void {
         console.log("Método MD3");
     }
+    
+    public MD4 (): void {
+        console.log("Metodo MB4");
+    }
 }
