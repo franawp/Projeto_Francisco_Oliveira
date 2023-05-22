@@ -30,4 +30,8 @@ export default class ClasseA {
     public MA2 (): void {
         console.log("Método MA2");
     }
+
+    public MA3 (): void {
+        console.log("Alteração da classe A a partir do clone");
+    }
 }
